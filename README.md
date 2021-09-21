@@ -1,2 +1,2 @@
 # quickstart
-Google cloud build quick start guide
+Google cloud build quick start guide: testing github triggers
